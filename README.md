@@ -8,3 +8,10 @@ The script just uses requests to get the pdf, then we save it to the disc for pr
 Then we just scrap it for mails and we export it to an excel file.
 
 Its a work in progress but it works.
+
+MODULES:
+-io
+-pdfminer3
+-re
+-pandas
+-requests
